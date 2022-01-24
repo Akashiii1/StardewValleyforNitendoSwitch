@@ -1,0 +1,12 @@
+.container{
+  width: 100%;
+ 
+}
+.topNav{
+  height: 54px;
+  background-color: #ccc;
+}
+.logo{
+  width: 154px;
+  height: 100%;
+}

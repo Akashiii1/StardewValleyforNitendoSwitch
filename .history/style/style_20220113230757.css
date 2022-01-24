@@ -1,0 +1,14 @@
+.container{
+  width: 100%;
+  height: 100%;
+}
+.topNav{
+  height: 46px;
+}
+.logo{
+  display: block;
+}
+img{
+  width: 100%;
+  object-fit: cover;
+}
